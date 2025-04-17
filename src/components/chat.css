@@ -1,0 +1,12 @@
+.chatlist-container {
+  padding: 10px;
+}
+
+.chat-container {
+  border: 2px solid black;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 20px;
+  padding: 10px;
+}

@@ -1,0 +1,13 @@
+.chatCard-Container {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #f0f0f0;
+  padding: 10px;
+}
+
+.left-section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
